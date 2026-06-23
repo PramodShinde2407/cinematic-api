@@ -212,9 +212,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📧 Contact & Support
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
+- **Author**: Pramod Shinde
+- **Email**: pramodshinde2005@gmail.com
+- **GitHub**: [@PramodShinde2407](https://github.com/PramodShinde2407)
 
 For issues and feature requests, please open an issue on GitHub.
 
