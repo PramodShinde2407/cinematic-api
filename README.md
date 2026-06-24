@@ -204,7 +204,7 @@ Contributions are welcome! Please follow these steps:
 Please ensure:
 - Code follows PEP 8 style guidelines
 - Tests are included for new features
-- Documentation is updated accordingly
+- Documentation is updated accordinglya
 
 ## 📝 License
 
