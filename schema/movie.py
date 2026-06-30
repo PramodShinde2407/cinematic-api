@@ -10,6 +10,7 @@ class MovieCreate(BaseModel):
     budget:int= Field(...,ge=0)
     rating:float= Field(..., ge=0, le=10)
     
+    
 
 
 
